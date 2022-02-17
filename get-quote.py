@@ -1,4 +1,5 @@
-def GoodbyeWorld():
+def primary():
+
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +9,4 @@ def GoodbyeWorld():
   #print(quotes)
 
 if __name__== "__main__":
-  GoodbyeWorld()
+  primary()
